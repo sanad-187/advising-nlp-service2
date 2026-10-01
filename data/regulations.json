@@ -1,0 +1,50 @@
+[
+  {
+    "id": "REG-01",
+    "category": "Course Registration & Drop",
+    "title": "Course Drop Policy / سياسة حذف المقررات",
+    "content_en": "Students can drop a course without academic penalty before Week 8 of the semester. Late drop requests require Dean approval and valid medical documentation.",
+    "content_ar": "يمكن للطالب حذف مقرر دراسي دون تأثير على المعدل الأكاديمي قبل الأسبوع الثامن من الفصل الدراسي. تتطلب طلبات الحذف المتأخرة موافقة العميد ووجود عذر طبي مقبول.",
+    "recommended_reply": "Regarding dropping a course, you can drop standard courses up to Week 8 without penalty. Please ensure you maintain the minimum credit hour requirement."
+  },
+  {
+    "id": "REG-02",
+    "category": "GPA & Probation",
+    "title": "Academic Warning & Probation / الإنذارات والمعدل الأكاديمي",
+    "content_en": "A student receives an academic probation warning if their cumulative GPA falls below 2.00 out of 4.00 (or 2.75 out of 5.00). If the GPA is not raised within two consecutive semesters, academic dismissal policies may apply.",
+    "content_ar": "يحصل الطالب على إنذار أكاديمي إذا انخفض معدله التراكمي عن 2.00 من 4.00 (أو 2.75 من 5.00). إذا لم يتم رفع المعدل خلال فصلين دراسيين متتاليين، قد تطبق إجراءات الطي/الفصل الأكاديمي.",
+    "recommended_reply": "If your GPA falls below the minimum threshold, you will receive an academic warning. I recommend scheduling an advising meeting to adjust your study plan and focus on retaking lower-grade courses."
+  },
+  {
+    "id": "REG-03",
+    "category": "Attendance & Absence",
+    "title": "Absence Percentage & Denial / نسبة الغياب الحرمان",
+    "content_en": "Students exceeding a 25% unexcused absence rate in any course will receive a denial grade (DN) and will not be permitted to sit for the final examination.",
+    "content_ar": "الطالب الذي تتجاوز نسبة غيابه بدون عذر مقبول 25% في أي مقرر يصدر بحقه درجة حرمان (DN) ولا يسمح له بدخول الاختبار النهائي.",
+    "recommended_reply": "Please note that exceeding 25% absences leads to a DN grade. If you have valid medical excuses, please submit them through the student portal immediately."
+  },
+  {
+    "id": "REG-04",
+    "category": "Postponement & Leave",
+    "title": "Postponement of Study / تأجيل الدراسة",
+    "content_en": "Students may request a postponement of study for up to two consecutive semesters or three non-consecutive semesters throughout their degree program, provided the request is submitted prior to the start of the term.",
+    "content_ar": "يحق للطالب تقديم طلب تأجيل الدراسة لمدة لا تتجاوز فصلين متتاليين أو ثلاثة فصول غير متتالية طوال فترة دراسته الجامعية بشرط تقديم الطلب قبل بداية الفصل الدراسي.",
+    "recommended_reply": "You can postpone your studies for up to two consecutive semesters. Make sure to submit the postponement request through the portal before the academic term starts."
+  },
+  {
+    "id": "REG-05",
+    "category": "Major Transfer",
+    "title": "Transfer Between Majors / التحويل بين التخصصات",
+    "content_en": "Students can apply to transfer to another major after completing at least 24 credit hours with a minimum GPA of 2.75, subject to seat availability in the target department.",
+    "content_ar": "يمكن للطالب التقدم بطلب للتحويل إلى تخصص آخر بعد إتمام 24 ساعة معتمدة على الأقل وبمعدل تراكمي لا يقل عن 2.75، وذلك حسب توفر المقاعد في القسم المطلوب.",
+    "recommended_reply": "To transfer to another major, you must have completed at least 24 credit hours with a minimum GPA of 2.75. Applications are submitted via the academic portal during the transfer window."
+  },
+  {
+    "id": "REG-06",
+    "category": "Academic Honors",
+    "title": "Honors Degree Requirements / شروط مرتبة الشرف",
+    "content_en": "First-class honors are awarded to students graduating with a GPA between 3.75 and 4.00, provided they have not failed any course at any university.",
+    "content_ar": "تُمنح مرتبة الشرف الأولى للطالب الخريج بمعدل تراكمي بين 3.75 و 4.00، بشرط ألا يكون قد رسب في أي مقرر دراسي في أي جامعة.",
+    "recommended_reply": "To qualify for First-Class Honors, you must maintain a cumulative GPA of at least 3.75 upon graduation and have no failed courses on your transcript."
+  }
+]
